@@ -13,7 +13,7 @@ public class DatabasePractice {
 		 * 1.Build Path-->Configure build Path--> Libraries--> add external JAR
 		 * 2.import java.sql.Connection;
 		 */
-		
+		System.out.print("This is new line of code");
 		Connection conn = null;
 		Statement stat = null;;
 		ResultSet rs = null;
